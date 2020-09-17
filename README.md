@@ -2,6 +2,7 @@
 
 In this notebook, First I have done some exploratory data analysis on the data and then Feature Engineering  . Then, I use different ensembling techniques using Bayesian Optimization to first train the model and then predict the quality of the wine.
 
+## Ensembling Techniques Used :
 ### 1) XGBoosting Classifier
 ### 2) ExtraTrees Classifier
 ### 3) RandomForestClassifier
