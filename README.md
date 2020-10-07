@@ -1,6 +1,5 @@
-## This notebook tutorial is for those who are at the intermediate level in machine learning.
-
-In this notebook, First I have done some exploratory data analysis on the data and then Feature Engineering  . Then, I use different ensembling techniques using Bayesian Optimization to first train the model and then predict the quality of the wine class whether its good (0) or bad (1).
+## About the Project 
+In this project, First I have done some exploratory data analysis on the data and then Feature Engineering  . Then, I use various ensembling techniques using Bayesian Optimization first to train the model and then to predict the quality of the wine class whether its good (0) or bad (1).
 
 ## Ensembling Techniques Used :
 ### 1) XGBoosting Classifier
